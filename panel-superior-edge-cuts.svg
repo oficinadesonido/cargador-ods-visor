@@ -7,12 +7,12 @@
 <circle cx="77.2" cy="6.8" r="1.6" id="M3_2"/>
 <circle cx="6.8" cy="77.2" r="1.6" id="M3_3"/>
 <circle cx="77.2" cy="77.2" r="1.6" id="M3_4"/>
-<rect x="14.5" y="52.75" width="24" height="13" id="ventana_OLED_24x13"/>
+<rect x="14.5" y="57.5" width="24" height="13" id="ventana_OLED_24x13"/>
 <circle cx="61.5" cy="53" r="3.6" id="encoder_d7.2"/>
 <circle cx="49" cy="67" r="1.6" id="LED_d3.2"/>
 </g>
 <g id="referencia" inkscape:groupmode="layer" inkscape:label="referencia (no cortar)" fill="none" stroke="#e05a00" stroke-width="0.1" stroke-dasharray="0.6 0.4">
-<rect x="15.65" y="53.8" width="21.7" height="10.9" id="OLED_area_activa_21.7x10.9"/>
+<rect x="15.65" y="58.55" width="21.7" height="10.9" id="OLED_area_activa_21.7x10.9"/>
 <circle cx="61.5" cy="53" r="6.1" id="perilla_d12.2"/>
 <line x1="52.2" y1="0" x2="52.2" y2="6" id="jack_CLK_IN"/>
 <line x1="64.7" y1="0" x2="64.7" y2="6" id="jack_SYNC_OUT"/>
