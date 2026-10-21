@@ -5,3 +5,5 @@ Ver: https://oficinadesonido.github.io/cargador-ods-visor/
 
 `panel-superior-edge-cuts.svg`: corte del panel superior en mm (capas Edge.Cuts y referencia).
 Generado con `mVave/hardware/visor/gen_visor.py`.
+
+- `real.html`: visor realista (modelo 3D de KiCad + paneles con la serigrafía del gerber).
